@@ -62,7 +62,7 @@ class Stack:
     
 
 if __name__ == "__main__":
-    # Instanciated a Stack Object
+    # Instantiated a Stack Object
     s = Stack()
     # push item
     s.push(10)
